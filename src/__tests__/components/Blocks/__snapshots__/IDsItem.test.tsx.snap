@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IDsItem 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#FAFAFB",
+      "borderRadius": 16,
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "height": 80,
+      "justifyContent": "space-between",
+      "opacity": 1,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+    }
+  }
+>
+  <View
+    alignCenter={true}
+    stretch={true}
+    style={
+      [
+        {
+          "alignItems": "center",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      color="black"
+      fontFamily="Inter"
+      fontSize={2}
+      fontWeight={0}
+      ml={5}
+      style={
+        [
+          {
+            "color": "#0F1120",
+            "fontFamily": "Inter",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "marginLeft": 16,
+          },
+        ]
+      }
+    >
+      Personal info
+    </Text>
+  </View>
+  <View
+    alignEnd={true}
+    stretch={true}
+    style={
+      [
+        {
+          "alignItems": "flex-end",
+          "flexBasis": 0,
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+      ]
+    }
+  />
+</View>
+`;

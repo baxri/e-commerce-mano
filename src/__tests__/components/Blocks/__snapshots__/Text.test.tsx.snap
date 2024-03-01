@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text 1`] = `
+<Text
+  allowFontScaling={false}
+  color="black"
+  fontFamily="Inter"
+  fontSize={2}
+  fontWeight={0}
+  style={
+    [
+      {
+        "color": "#0F1120",
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": "400",
+      },
+    ]
+  }
+>
+  TEST
+</Text>
+`;
